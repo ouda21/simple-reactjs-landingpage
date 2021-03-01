@@ -11,7 +11,7 @@
     "react-ionicons": "^3.1.4",
     "react-scripts": "3.4.1",
     "react-three-fiber": "^4.2.12",
-    "three": "^0.118.1"
+    "three": "^0.125.0"
   },
   "scripts": {
     "start": "react-scripts start",
